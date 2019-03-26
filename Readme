@@ -1,0 +1,4 @@
+ **Hyper Parameter Optimization**
+ 
+Here is some code of how to find hyperparameters of your neural-nets or deep learning models and than use that model to train your data
+and test that. You are able to change the parameters by just updating params dict in the code.
